@@ -45,7 +45,7 @@ Tecnologia, suporte e dados conectados para resolver problemas e criar experiên
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-Sou profissional em transição e desenvolvimento contínuo na área de tecnologia, com experiência em atendimento, suporte e resolução de problemas.
+Sou profissional em transição de carreira e buscando desenvolvimento contínuo na área de tecnologia, com experiência em atendimento, suporte e resolução de problemas.
 
 Atualmente, venho direcionando minha trajetória para **Suporte Técnico, Service Desk, ServiceNow e Banco de Dados**, buscando conectar conhecimento técnico com uma visão centrada no usuário.
 
@@ -134,32 +134,30 @@ Conhecimentos relacionados a LGPD, segurança da informação e tratamento respo
 
 ---
 
-## `> CURRENT_OBJECTIVES`
-
-```bash
+> CURRENT_OBJECTIVES
 pamela@github:~$ systemctl status career
 
 ● career.service - Professional Development System
-   Loaded: loaded
-   Active: active (running)
+   Loaded: active
+   Status: running
 
 [01] > Aprofundar conhecimentos em Banco de Dados
-     STATUS: ████████░░ 80%
+     PROGRESS: ████████░░ 80%
 
-[02] > Evoluir em ServiceNow
-     STATUS: ███████░░░ 70%
+[02] > Evoluir em Administração de Sistemas ServiceNow
+     PROGRESS: ███████░░░ 70%
 
-[03] > Desenvolver conhecimentos em Suporte Técnico
-     STATUS: ████████░░ 80%
+[03] > Desenvolver competências em Suporte Técnico
+     PROGRESS: ████████░░ 80%
 
-[04] > Construir projetos práticos
-     STATUS: ██████░░░░ 60%
+[04] > Construir projetos práticos para consolidar aprendizados
+     PROGRESS: ██████░░░░ 60%
 
-[05] > Conectar tecnologia + dados + experiência
-     STATUS: ████████░░ 80%
+[05] > Integrar tecnologia, dados e experiência do cliente
+     PROGRESS: ████████░░ 80%
 
-[06] > Evoluir profissionalmente na área de tecnologia
-     STATUS: ███████░░░ 70%
+[06] > Consolidar minha trajetória profissional em Tecnologia
+     PROGRESS: ███████░░░ 70%
 
 pamela@github:~$ _
 ```
@@ -256,13 +254,15 @@ TECH JOURNEY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pamelaosmedio&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelaosmedio&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=pamelaosmedio&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=pamelaosmedio&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelaosmedio&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=pamelaosmedio&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -272,7 +272,7 @@ TECH JOURNEY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pamelaosmedio&theme=tokyo-night" alt="GitHub Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pamelaosmedio" alt="GitHub Activity Graph" width="100%" />
 
 </div>
 
@@ -283,6 +283,20 @@ TECH JOURNEY
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=pamelaosmedio&theme=tokyonight&no-frame=true&no-bg=true&column=4" alt="GitHub Trophies" width="100%" />
+
+</div>
+
+---
+
+## `> CONTRIBUTION_PROTOCOL`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pamelaosmedio/pamelaosmedio/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pamelaosmedio/pamelaosmedio/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/pamelaosmedio/pamelaosmedio/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%">
+</picture>
 
 </div>
 
