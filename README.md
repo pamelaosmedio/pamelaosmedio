@@ -32,29 +32,35 @@ Tecnologia, suporte e dados conectados para resolver problemas e criar experiên
 </p>
 
 ---
-
 ## `> SYSTEM.ABOUT_ME`
 
-<pre>
-╔══════════════════════════════════════════════════════════════╗
-║                 USER PROFILE // PAMELA OSMEDIO                ║
-╠══════════════════════════════════════════════════════════════╣
-║ Status       : Online                                         ║
-║ Location     : São Paulo • Brasil                             ║
-║ Education    : Análise e Desenvolvimento de Sistemas          ║
-║ Current      : Graduação em Banco de Dados                    ║
-║ Focus        : Suporte Técnico • ServiceNow • Dados           ║
-║ Interests    : TI • CX • CS • Sistemas • Tecnologia           ║
-╚══════════════════════════════════════════════════════════════╝
-</pre>
+<div align="center">
 
-Sou profissional em transição e desenvolvimento contínuo na área de tecnologia, com experiência em atendimento, suporte e resolução de problemas.
+<table>
+<tr>
+<td>
+
+<strong>USER PROFILE // PAMELA OSMEDIO</strong>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<strong>Status:</strong> Online<br><br>
+<strong>Local:</strong> São Paulo • Brasil<br><br>
+<strong>Educação:</strong> Análise e Desenvolvimento de Sistemas<br><br>
+<strong>Atual:</strong> Graduação em Banco de Dados<br><br>
+<strong>Foco:</strong> Suporte Técnico • ServiceNow • Dados<br><br>
+<strong>Interesses:</strong> TI • CX • CS • Sistemas • Tecnologia
+
+</div>
+
+Sou profissional em transição de carreira e busco desenvolvimento contínuo na área de tecnologia, com experiência em atendimento, suporte e resolução de problemas.
 
 Atualmente, direciono minha trajetória para **Suporte Técnico, Service Desk, ServiceNow e Banco de Dados**, buscando conectar conhecimento técnico com uma visão centrada no usuário.
 
 Tenho interesse em ambientes onde **tecnologia, dados e experiência do cliente** trabalham juntos para tornar processos mais simples, eficientes e seguros.
-
----
 
 ## `> CURRENT_LEARNING`
 
