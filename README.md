@@ -1,60 +1,50 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00E7FF&center=true&vCenter=true&width=850&lines=%3E+SYSTEM+INITIALIZING...;%3E+WELCOME%2C+PAMELA+OSMEDIO;%3E+TECH+SUPPORT+%7C+DATA+%7C+SERVICENOW;%3E+SYSTEM+ONLINE+%E2%9C%93" alt="System Initialization" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00E7FF&center=true&vCenter=true&width=850&lines=%3E+INICIALIZANDO+SISTEMA...;%3E+BEM-VINDA%2C+PAMELA+OSMEDIO;%3E+SUPORTE+T%C3%89CNICO+%7C+BANCO+DE+DADOS+%7C+SERVICENOW;%3E+SISTEMA+ONLINE+%E2%9C%93" alt="Sistema inicializando" />
 
 <br>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E7FF?style=for-the-badge&logo=github&logoColor=white" alt="System Online" />
-<img src="https://img.shields.io/badge/FOCUS-TECHNOLOGY-9D4EDD?style=for-the-badge" alt="Technology Focus" />
-<img src="https://img.shields.io/badge/STATUS-LEARNING-00E7FF?style=for-the-badge" alt="Learning Status" />
+<img src="https://img.shields.io/badge/SISTEMA-ONLINE-00E7FF?style=for-the-badge" alt="Sistema online" />
+<img src="https://img.shields.io/badge/FOCO-TECNOLOGIA-9D4EDD?style=for-the-badge" alt="Foco em tecnologia" />
+<img src="https://img.shields.io/badge/STATUS-EM%20APRENDIZADO-00E7FF?style=for-the-badge" alt="Status em aprendizado" />
 
 </div>
 
----
+# `PAMELA OSMEDIO`
 
-<h1 align="center">👩🏻‍💻 PAMELA OSMEDIO</h1>
+### `SUPORTE TÉCNICO • SERVICENOW • BANCO DE DADOS • TI`
 
-<p align="center">
-<strong>SUPORTE TÉCNICO • SERVICENOW • BANCO DE DADOS • TI</strong>
-</p>
+Profissional em transição de carreira e em busca de desenvolvimento contínuo na área de tecnologia, com experiência em atendimento, suporte e resolução de problemas.
 
-<p align="center">
-Tecnologia, suporte e dados conectados para resolver problemas e criar experiências melhores.
-</p>
+Atualmente direciono minha trajetória para **Suporte Técnico, Service Desk, ServiceNow e Banco de Dados**, buscando unir conhecimento técnico, dados e uma visão centrada no usuário.
 
-<p align="center">
-<a href="https://github.com/pamelaosmedio">
-<img src="https://img.shields.io/badge/GitHub-pamelaosmedio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/pamela-osmedio/">
-<img src="https://img.shields.io/badge/LinkedIn-Pamela%20Osmedio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-</p>
+Tenho interesse em ambientes onde **tecnologia, dados e experiência do cliente** trabalham juntos para tornar processos mais simples, eficientes e seguros.
 
 ---
-## `> SYSTEM.ABOUT_ME`
+
+## `> SOBRE MIM`
 
 <div align="center">
 
 <table>
 <tr>
-<th colspan="2">USER PROFILE // PAMELA</th>
+<th colspan="2">PERFIL DO USUÁRIO // PAMELA OSMEDIO</th>
 </tr>
 <tr>
 <td><strong>Status</strong></td>
 <td>Online</td>
 </tr>
 <tr>
-<td><strong>Local</strong></td>
+<td><strong>Localização</strong></td>
 <td>São Paulo • Brasil</td>
 </tr>
 <tr>
-<td><strong>Formação em</strong></td>
+<td><strong>Formação</strong></td>
 <td>Análise e Desenvolvimento de Sistemas</td>
 </tr>
 <tr>
-<td><strong>Hoje</strong></td>
-<td>Estudante de Banco de Dados</td>
+<td><strong>Atualmente</strong></td>
+<td>Cursando graduação em Banco de Dados</td>
 </tr>
 <tr>
 <td><strong>Foco</strong></td>
@@ -74,156 +64,196 @@ Atualmente, direciono minha trajetória para **Suporte Técnico, Service Desk, S
 
 Tenho interesse em ambientes onde **tecnologia, dados e experiência do cliente** trabalham juntos para tornar processos mais simples, eficientes e seguros.
 
-Sou profissional em transição de carreira e busco desenvolvimento contínuo na área de tecnologia, com experiência em atendimento, suporte e resolução de problemas.
+---
 
-Atualmente, direciono minha trajetória para **Suporte Técnico, Service Desk, ServiceNow e Banco de Dados**, buscando conectar conhecimento técnico com uma visão centrada no usuário.
-
-Tenho interesse em ambientes onde **tecnologia, dados e experiência do cliente** trabalham juntos para tornar processos mais simples, eficientes e seguros.
-
-## `> CURRENT_LEARNING`
+## `> APRENDIZADO ATUAL`
 
 <div align="center">
 
-|                           🛠️ **SUPORTE TÉCNICO**                           |                                      ☁️ **SERVICENOW**                                      |
-| :-------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
-| Fundamentos de suporte, troubleshooting, sistemas e resolução de problemas. | Administração de Sistemas ServiceNow - CSA, com foco em ITSM e administração da plataforma. |
+<table>
+<tr>
+<td align="center" width="50%">
 
-|                                  🗄️ **BANCO DE DADOS**                                  |                                  🤖 **TECNOLOGIA & IA**                                 |
-| :--------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
-| Graduação em Banco de Dados, com estudos em SQL, modelagem e organização de informações. | Interesse em IA aplicada a suporte, atendimento, produtividade e melhoria de processos. |
+### 🛠️ SUPORTE TÉCNICO
+
+Fundamentos de suporte, troubleshooting, sistemas e resolução de problemas.
+
+</td>
+
+<td align="center" width="50%">
+
+### ☁️ SERVICENOW
+
+Administração de Sistemas ServiceNow - CSA, com foco em ITSM e administração da plataforma.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🗄️ BANCO DE DADOS
+
+Graduação em Banco de Dados, com estudos em SQL, modelagem e organização de informações.
+
+</td>
+
+<td align="center">
+
+### 🤖 TECNOLOGIA & IA
+
+Interesse em Inteligência Artificial aplicada a suporte, atendimento, produtividade e melhoria de processos.
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## `> TECH_STACK`
+## `> TECNOLOGIAS`
 
-### 🗄️ DATABASE
+### 🗄️ BANCO DE DADOS
 
-<p align="center">
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00E7FF" alt="SQL" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00E7FF" alt="MySQL" />
 
-### 🛠️ TECHNOLOGY
+### 💻 TECNOLOGIA
 
-<p align="center">
-<img src="https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
-<img src="https://img.shields.io/badge/Service%20Desk-5C2D91?style=for-the-badge" alt="Service Desk" />
-<img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=git&logoColor=white" alt="Git and GitHub" />
-</p>
+<img src="https://img.shields.io/badge/ServiceNow-0D1117?style=for-the-badge&logo=servicenow&logoColor=00E7FF" alt="ServiceNow" />
+<img src="https://img.shields.io/badge/Service_Desk-0D1117?style=for-the-badge&logo=googlesupport&logoColor=00E7FF" alt="Service Desk" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00E7FF" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 
-### 📊 PRODUCTIVITY
+### 📊 PRODUTIVIDADE
 
-<p align="center">
-<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-</p>
+<img src="https://img.shields.io/badge/Microsoft_Office-0D1117?style=for-the-badge&logo=microsoftoffice&logoColor=00E7FF" alt="Microsoft Office" />
+<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00E7FF" alt="Visual Studio Code" />
 
 ---
 
-## `> TOOLS_AND_CONCEPTS`
+## `> FERRAMENTAS & CONCEITOS`
 
-<div align="center">
-
-`Troubleshooting` • `ITSM` • `SQL` • `Modelagem de Dados`
-`Service Desk` • `Atendimento` • `CX` • `CS`
-`LGPD` • `Sistemas Corporativos` • `CRM` • `IA`
-
-</div>
+`Troubleshooting` • `ITSM` • `SQL` • `Modelagem de Dados` • `Service Desk` • `Atendimento` • `CX` • `CS` • `LGPD` • `Sistemas Corporativos` • `CRM` • `IA`
 
 ---
 
-## `> CURRENT_OBJECTIVES`
+## `> OBJETIVOS ATUAIS`
 
 <pre>
-pamela@github:~$ systemctl status career
+pamela@github:~$ status carreira
 
-● career.service - Professional Development System
-   Loaded: active
-   Status: running
+● carreira.service - Sistema de Desenvolvimento Profissional
+   Carregado: ativo
+   Status: em execução
 
 [01] > Aprofundar conhecimentos em Banco de Dados
-     PROGRESS: ████████░░ 80%
+     PROGRESSO: ████████░░ 80%
 
 [02] > Evoluir em Administração de Sistemas ServiceNow
-     PROGRESS: ███████░░░ 70%
+     PROGRESSO: ███████░░░ 70%
 
 [03] > Desenvolver competências em Suporte Técnico
-     PROGRESS: ████████░░ 80%
+     PROGRESSO: ████████░░ 80%
 
 [04] > Construir projetos práticos para consolidar aprendizados
-     PROGRESS: ██████░░░░ 60%
+     PROGRESSO: ██████░░░░ 60%
 
 [05] > Integrar tecnologia, dados e experiência do cliente
-     PROGRESS: ████████░░ 80%
+     PROGRESSO: ████████░░ 80%
 
 [06] > Consolidar minha trajetória profissional em Tecnologia
-     PROGRESS: ███████░░░ 70%
+     PROGRESSO: ███████░░░ 70%
 
 pamela@github:~$ _
 </pre>
 
 ---
 
-## `> PROJECTS // LEARNING LAB`
+## `> PROJETOS // LABORATÓRIO DE APRENDIZADO`
 
 <div align="center">
 
-|                    🗄️ **DATABASE LAB**                   |              ☁️ **SERVICENOW LAB**              |
-| :-------------------------------------------------------: | :---------------------------------------------: |
-| Laboratório de estudos voltado para Banco de Dados e SQL. | Registro dos aprendizados em ServiceNow e ITSM. |
-|               `SQL` `Modelagem` `Consultas`               |           `ITSM` `Administração` `CSA`          |
+<table>
+<tr>
+<th>Projeto</th>
+<th>Foco</th>
+<th>Status</th>
+</tr>
 
-|                           🛠️ **IT SUPPORT LAB**                          |                 🤖 **TECHNOLOGY JOURNEY**                |
-| :-----------------------------------------------------------------------: | :------------------------------------------------------: |
-| Estudos relacionados a Suporte Técnico, Service Desk e fundamentos de TI. | Evolução conectando tecnologia, dados, atendimento e IA. |
-|                    `Troubleshooting` `Sistemas` `Redes`                   |                `Support` `Data` `CX` `AI`                |
+<tr>
+<td>🗄️ <strong>Laboratório de Banco de Dados</strong></td>
+<td>SQL • Modelagem • Dados</td>
+<td>EM DESENVOLVIMENTO</td>
+</tr>
+
+<tr>
+<td>☁️ <strong>Laboratório ServiceNow</strong></td>
+<td>ITSM • Administração • Plataforma</td>
+<td>EM APRENDIZADO</td>
+</tr>
+
+<tr>
+<td>🛠️ <strong>Laboratório de Suporte de TI</strong></td>
+<td>Troubleshooting • Sistemas • Atendimento</td>
+<td>EM DESENVOLVIMENTO</td>
+</tr>
+
+<tr>
+<td>🚀 <strong>Jornada em Tecnologia</strong></td>
+<td>Projetos • Estudos • Evolução</td>
+<td>EM CONSTRUÇÃO</td>
+</tr>
+
+</table>
+
+<br>
+
+`CONSTRUINDO` • `APRENDENDO` • `EVOLUINDO`
 
 </div>
 
-> **STATUS:** `BUILDING • LEARNING • IMPROVING`
-
 ---
 
-## `> GITHUB_ANALYTICS`
+## `> ANÁLISES DO GITHUB`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=pamelaosmedio&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=pamelaosmedio&theme=tokyonight&hide_border=true" alt="Sequência de contribuições do GitHub" width="70%" />
+
+<br><br>
+
+A atividade e as estatísticas do GitHub estão evoluindo conforme novos projetos e contribuições são adicionados.
 
 </div>
 
-<p align="center">
-<em>GitHub activity and statistics are evolving as new projects and contributions are added.</em>
-</p>
-
 ---
 
-## `> CONTRIBUTION_PROTOCOL`
+## `> PROTOCOLO DE CONTRIBUIÇÕES`
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pamelaosmedio/pamelaosmedio/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pamelaosmedio/pamelaosmedio/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/pamelaosmedio/pamelaosmedio/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pamelaosmedio/pamelaosmedio/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pamelaosmedio/pamelaosmedio/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/pamelaosmedio/pamelaosmedio/output/github-contribution-grid-snake.svg" alt="Animação das contribuições do GitHub" width="100%">
 </picture>
 
 </div>
 
 ---
 
-## `> PROFESSIONAL_NETWORK`
+## `> REDE PROFISSIONAL`
 
 <div align="center">
 
 <a href="https://github.com/pamelaosmedio">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+<img src="https://img.shields.io/badge/GitHub-Pamela%20Osmedio-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/in/pamela-osmedio/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+<img src="https://img.shields.io/badge/LinkedIn-Pamela%20Osmedio-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E7FF" alt="LinkedIn" />
 </a>
 
 </div>
@@ -232,20 +262,30 @@ pamela@github:~$ _
 
 <div align="center">
 
-<pre>
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                CONNECTION STATUS: ONLINE                     ║
-║                                                              ║
-║             LEARNING • BUILDING • IMPROVING                  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-</pre>
+<table>
+<tr>
+<th>STATUS DA CONEXÃO</th>
+</tr>
+<tr>
+<td align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=%3E+SYSTEM+ONLINE;%3E+KEEP+LEARNING;%3E+KEEP+BUILDING;%3E+KEEP+EVOLVING" alt="Footer Animation" />
+<strong>● ONLINE</strong>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+APRENDENDO • CONSTRUINDO • EVOLUINDO
+
+</td>
+</tr>
+</table>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=%3E+SISTEMA+ONLINE;%3E+CONTINUE+APRENDENDO;%3E+CONTINUE+CONSTRUINDO;%3E+CONTINUE+EVOLUINDO" alt="Sistema online" />
 
 <br>
 
-<sub>© 2026 PAMELA OSMEDIO • SUPORTE • TECNOLOGIA • DADOS • EVOLUÇÃO</sub>
+`© 2026 PAMELA OSMEDIO • SUPORTE • TECNOLOGIA • DADOS • EVOLUÇÃO`
 
 </div>
