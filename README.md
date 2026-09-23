@@ -37,14 +37,14 @@ Tecnologia, suporte e dados conectados para resolver problemas e criar experiên
 
 <pre>
 ╔══════════════════════════════════════════════════════════════╗
-║                 USER PROFILE // PAMELA OSMEDIO               ║
+║                 USER PROFILE // PAMELA OSMEDIO                ║
 ╠══════════════════════════════════════════════════════════════╣
-║ Status       : Online                                        ║
-║ Location     : São Paulo • Brasil                            ║
-║ Education    : Análise e Desenvolvimento de Sistemas         ║
-║ Current      : Graduação em Banco de Dados                   ║
-║ Focus        : Suporte Técnico • ServiceNow • Dados          ║
-║ Interests    : TI • CX • CS • Sistemas • Tecnologia          ║
+║ Status       : Online                                         ║
+║ Location     : São Paulo • Brasil                             ║
+║ Education    : Análise e Desenvolvimento de Sistemas          ║
+║ Current      : Graduação em Banco de Dados                    ║
+║ Focus        : Suporte Técnico • ServiceNow • Dados           ║
+║ Interests    : TI • CX • CS • Sistemas • Tecnologia           ║
 ╚══════════════════════════════════════════════════════════════╝
 </pre>
 
